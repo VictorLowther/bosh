@@ -1,5 +1,6 @@
 *.rbc
 *.swp
+*.gem
 *~
 .DS_Store
 \#*\#
@@ -18,6 +19,7 @@
 .yardoc
 
 /*/vendor/
+vendor/*
 Checkfile
 TAGS
 
